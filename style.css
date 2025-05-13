@@ -1,0 +1,29 @@
+body {
+    background-color: #d1d6ea; /* Bleu vif */
+    font-family: Arial, sans-serif;
+    color: rgb(0, 0, 0);
+    padding: 50px;
+}
+
+.age-sexe{
+    /* Pour centrer le formulaire sur la page */
+    margin: 0 auto;
+    margin-top: 350px;
+    width: 400px;
+    background-color: rgba(236, 228, 127, 0.97);
+    /* Encadré pour voir les limites du formulaire */
+    padding: 1em;
+    border: 3px solid #b38c03;
+    border-radius: 2em;
+}
+
+#bouton-valider{
+    margin-top: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding: 1em;
+    background-color: rgba(13, 164, 255, 0.97);
+    border: 3px solid #b38c03;
+    border-radius: 1em ;
+}
